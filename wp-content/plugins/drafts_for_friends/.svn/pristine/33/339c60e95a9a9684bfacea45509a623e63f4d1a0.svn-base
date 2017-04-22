@@ -1,0 +1,127 @@
+# Copyright (C) 2010 Drafts for Friends
+# This file is distributed under the same license as the Drafts for Friends package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Drafts for Friends 2.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/drafts-for-friends\n"
+"POT-Creation-Date: 2016-10-05 21:05+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-10-06 12:58+0300\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.9\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: he\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Plugin Name of the plugin/theme
+#: drafts-for-friends.php:52 drafts-for-friends.php:156
+#: drafts-for-friends.php:217
+msgid "Drafts for Friends"
+msgstr "טיוטות עבור חברים"
+
+#: drafts-for-friends.php:74
+msgid "There is no such post!"
+msgstr "אין פוסט כזה!"
+
+#: drafts-for-friends.php:77
+msgid "The post is published!"
+msgstr "הפוסט כבר פורסם!"
+
+#: drafts-for-friends.php:117
+msgid "Your Drafts:"
+msgstr "הטיוטות שלך:"
+
+#: drafts-for-friends.php:122
+msgid "Your Scheduled Posts:"
+msgstr "פוסטים שלך שמתוזמנים לפרסום:"
+
+#: drafts-for-friends.php:127
+msgid "Pending Review:"
+msgstr "מחכים לאישור:"
+
+#: drafts-for-friends.php:160
+msgid "Currently shared drafts"
+msgstr "טיוטות משותפות"
+
+#: drafts-for-friends.php:164
+msgid "ID"
+msgstr "מס׳"
+
+#: drafts-for-friends.php:165
+msgid "Title"
+msgstr "כותרת"
+
+#: drafts-for-friends.php:166
+msgid "Link"
+msgstr "קישור"
+
+#: drafts-for-friends.php:167
+msgid "Actions"
+msgstr "פעולות"
+
+#: drafts-for-friends.php:185 drafts-for-friends.php:192
+msgid "Extend"
+msgstr "הארך"
+
+#: drafts-for-friends.php:193
+msgid "by"
+msgstr "ב"
+
+#: drafts-for-friends.php:197
+msgid "Cancel"
+msgstr "ביטול"
+
+#: drafts-for-friends.php:202
+msgid "Delete"
+msgstr "מחק"
+
+#: drafts-for-friends.php:210
+msgid "No shared drafts!"
+msgstr "אין טיוטות משותפות"
+
+#: drafts-for-friends.php:221
+msgid "Choose a draft"
+msgstr ""
+
+#: drafts-for-friends.php:242
+msgid "Share it"
+msgstr ""
+
+#: drafts-for-friends.php:243
+msgid "for"
+msgstr ""
+
+#: drafts-for-friends.php:283
+msgid "seconds"
+msgstr ""
+
+#: drafts-for-friends.php:284
+msgid "minutes"
+msgstr ""
+
+#: drafts-for-friends.php:285
+msgid "hours"
+msgstr ""
+
+#: drafts-for-friends.php:286
+msgid "days"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Now you don't need to dd friends as users to the blog in order to let them "
+"preview your drafts"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Neville Longbottom"
+msgstr ""

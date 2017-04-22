@@ -1,0 +1,161 @@
+# Copyright (C) 2016 Drafts for Friends
+# This file is distributed under the same license as the Drafts for Friends package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Drafts for Friends 2.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/"
+"drafts_for_friends\n"
+"POT-Creation-Date: 2016-10-15 21:30+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.8.9\n"
+
+#. Plugin Name of the plugin/theme
+#: drafts-for-friends.php:70 drafts-for-friends.php:71
+#: drafts-for-friends.php:429 drafts-for-friends.php:498
+msgid "Drafts for Friends"
+msgstr ""
+
+#: drafts-for-friends.php:125
+msgid "Post shared."
+msgstr ""
+
+#: drafts-for-friends.php:128
+msgid "There is no such post!"
+msgstr ""
+
+#: drafts-for-friends.php:131
+msgid "The post is published!"
+msgstr ""
+
+#: drafts-for-friends.php:141
+msgid "Invalid data. Post was not shared."
+msgstr ""
+
+#: drafts-for-friends.php:175
+msgid "Share deleted."
+msgstr ""
+
+#: drafts-for-friends.php:177
+msgid "Failed deleting share."
+msgstr ""
+
+#: drafts-for-friends.php:213
+msgid "Share extended."
+msgstr ""
+
+#: drafts-for-friends.php:215
+msgid "Failed extending share."
+msgstr ""
+
+#: drafts-for-friends.php:232
+msgid "Your Drafts:"
+msgstr ""
+
+#: drafts-for-friends.php:237
+msgid "Your Scheduled Posts:"
+msgstr ""
+
+#: drafts-for-friends.php:242
+msgid "Pending Review:"
+msgstr ""
+
+#: drafts-for-friends.php:301
+msgid "Expired"
+msgstr ""
+
+#: drafts-for-friends.php:388
+msgid "seconds"
+msgstr ""
+
+#: drafts-for-friends.php:389
+msgid "minutes"
+msgstr ""
+
+#: drafts-for-friends.php:390
+msgid "hours"
+msgstr ""
+
+#: drafts-for-friends.php:391
+msgid "days"
+msgstr ""
+
+#: drafts-for-friends.php:412
+msgid "Delete"
+msgstr ""
+
+#: drafts-for-friends.php:433
+msgid "Currently shared drafts"
+msgstr ""
+
+#: drafts-for-friends.php:438
+msgid "ID"
+msgstr ""
+
+#: drafts-for-friends.php:439
+msgid "Title"
+msgstr ""
+
+#: drafts-for-friends.php:440
+msgid "Link"
+msgstr ""
+
+#: drafts-for-friends.php:441
+msgid "Actions"
+msgstr ""
+
+#: drafts-for-friends.php:442
+msgid "Expires in"
+msgstr ""
+
+#: drafts-for-friends.php:462 drafts-for-friends.php:469
+msgid "Extend"
+msgstr ""
+
+#: drafts-for-friends.php:470
+msgid "by"
+msgstr ""
+
+#: drafts-for-friends.php:475
+msgid "Cancel"
+msgstr ""
+
+#: drafts-for-friends.php:487 drafts-for-friends.php:492
+msgid "No shared drafts!"
+msgstr ""
+
+#: drafts-for-friends.php:502
+msgid "Choose a draft"
+msgstr ""
+
+#: drafts-for-friends.php:519
+msgid "Share it"
+msgstr ""
+
+#: drafts-for-friends.php:520
+msgid "for"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Now you don't need to add friends as users to the blog in order to let them "
+"preview your drafts"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid ""
+"Gandalf the grey. (Neville Longbottom should stick to teaching herbology)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://en.wikipedia.org/wiki/Gandalf"
+msgstr ""
